@@ -25,7 +25,7 @@ there are also different biomes and mobs.
 
 Here is a video presenting the program :
 
-[<p><img src="https://i.imgur.com/StJSmmr.png" width="400"></p>](https://www.youtube.com/watch?v=m7gM_uRNLOw)
+[<img src="https://i.imgur.com/StJSmmr.png" width="400">](https://www.youtube.com/watch?v=m7gM_uRNLOw)
 
 <br/>
 
